@@ -46,7 +46,7 @@ PAVAN KALYAN KANTE
 
 ![Kalyan's Github Stats](https://github-readme-stats.vercel.app/api?username=PAVAN-KALYAN-KANTE&count_private=true&theme=dracula&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PAVAN-KAlYAN-KANTE)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PAVAN-KALYAN-KANTE)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PAVAN-KAlYAN-KANTE)
 
