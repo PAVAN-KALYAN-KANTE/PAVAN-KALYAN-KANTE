@@ -2,7 +2,7 @@ PAVAN KALYAN KANTE
 
 ## Hi, I am a ReactJS/Frontend Developer 👩‍💻
 
-🔭 Currently I am actively looking for a full-time React Developer job . I'm Studying 4th Btech IT at GVPCE. I'm interested in working as a full-time React Developer.With expertise in React, I am working in MERN stack & TypeScript.
+🔭 Currently I am a looking for a full-time React Developer job . I'm Studying 4th Btech IT at GVPCE. I'm interested in working as a full-time React Developer With expertise in React. I am Practising  MERN stack & TypeScript.
 
 🌱 I like to build websites and web applications in JavaScript, React to solve real Business problems. Other skills on my bucket list for coming months are Rreading documentations and blogs.🙂
 
